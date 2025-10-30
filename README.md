@@ -106,5 +106,5 @@ print(f"Decision: {result['recommendation']}")
 
 
 ## 📚 Creator
-- Japneet Singh Anand
-- [GitHub](https://github.com/japneett007)
+- Sonal Jaiswal
+- [GitHub](https://github.com/sonal005)
